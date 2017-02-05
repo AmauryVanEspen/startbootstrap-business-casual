@@ -1,4 +1,8 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
+# [Alterna R&D landing page](http://AlternaRD.github.io) forked from [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
+
+Alterna R&D développe une Activité indépendante de recherche et développement pour les organisations.
+
+L’approche est d’organiser les transformations des organisations grâce aux connaissances en sciences humaines, afin de permettre la réappropriation par les acteurs.
 
 [Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
 
